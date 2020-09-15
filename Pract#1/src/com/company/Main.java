@@ -22,6 +22,7 @@ public class Main {
         matr2.printSideDiagonal();
     }
 
+//    Task 2
     private static int[] fillArray(int begin, int end, int step){
         int[] arr = new int[end/step];
 

@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.Random;
 
+// Task1
 public class matrix {
     private final Random random = new Random();
     private int size1;
